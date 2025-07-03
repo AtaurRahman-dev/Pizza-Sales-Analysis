@@ -44,7 +44,7 @@ This project focuses on analyzing pizza sales data using **MS SQL Server** for q
 
 All queries used in this analysis — including KPI generation, sales breakdown, and trend analysis — are documented in the PDF below. A few screenshots of query outputs are also included.
 
-👉 [📄 View Full SQL Queries PDF](./Pizza_Sales_SQL_Queries.pdf)
+👉 [📄 View Full SQL Queries PDF](My%20PIZZA%20SALES%20QUERIES.pdf)
 
 ---
 
