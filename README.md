@@ -4,6 +4,12 @@ This project focuses on analyzing pizza sales data using **MS SQL Server** for q
 
 ---
 
+## 📸 Dashboard Preview
+
+![Pizza Sales Dashboard](images/dashboard.jpg)
+
+---
+
 ## 📌 Objectives
 
 - Extract key KPIs from raw sales data using SQL
@@ -22,7 +28,25 @@ This project focuses on analyzing pizza sales data using **MS SQL Server** for q
 
 ---
 
-## 🔍 Key Metrics Extracted
+## 🔍 What I Uncovered
+
+Through SQL querying and visual analysis, I discovered valuable insights about pizza sales performance:
+
+- 🍕 **Classic pizzas** and **Large sizes** are the most popular and best-performing categories
+- 📅 **Fridays** consistently have the highest order volume, especially in evening hours
+- 🕒 Most orders are placed between **6 PM – 8 PM**
+- ❌ The **Brie Carre Pizza** had the lowest sales performance across all timeframes
+- 📉 Order surges during weekends signal staffing & inventory optimization needs
+- 📈 Customers tend to order **multiple pizzas per order**, with averages over 2
+
+These insights can help guide:
+- Menu decisions and marketing promotions
+- Resource planning and peak-time staffing
+- Product placement in campaigns
+
+---
+
+## 📊 Key Metrics Extracted
 
 - Total Revenue
 - Average Order Value
@@ -31,12 +55,6 @@ This project focuses on analyzing pizza sales data using **MS SQL Server** for q
 - Daily & Hourly Order Trends
 - Sales by Pizza Category and Size
 - Top 5 and Bottom 5 Selling Pizzas
-
----
-
-## 📸 Dashboard Preview
-
-![Pizza Sales Dashboard](images/Dashboard.jpg)
 
 ---
 
@@ -50,7 +68,7 @@ All queries used in this analysis — including KPI generation, sales breakdown,
 
 ## ✅ Data Verification
 
-Every visualization created in Excel was verified using the raw SQL output to ensure data integrity and accuracy.
+Each Excel visualization was cross-checked with SQL query output to ensure accurate and consistent reporting.
 
 ---
 
