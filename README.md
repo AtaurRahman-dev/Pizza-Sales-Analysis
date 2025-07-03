@@ -6,7 +6,7 @@ This project focuses on analyzing pizza sales data using **MS SQL Server** for q
 
 ## 📸 Dashboard Preview
 
-![Pizza Sales Dashboard](images/dashboard.jpg)
+![Pizza Sales Dashboard](images/Dashboard.jpg)
 
 ---
 
